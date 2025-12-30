@@ -1,2 +1,2 @@
-# AI-ESG-2025
-AI adoption and ESG analysis
+# AI Adoption and ESG-Related Management Practices in UK Firms
+(Contents identical to chat version; dataset not included.)
