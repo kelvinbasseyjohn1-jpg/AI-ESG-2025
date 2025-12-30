@@ -1,8 +1,6 @@
 # AI Adoption and ESG-Related Management Practices in UK Firms
 import pandas as pd
-
 df = pd.read_excel('data/raw/ONS_MES_2023.xlsx')
-
 # Data Cleaning
 import pandas as pd
 import statsmodels.api as sm
